@@ -1,0 +1,7 @@
+README.rst
+setup.py
+testpackageschon/testpackageschon.py
+testpackageschon.egg-info/PKG-INFO
+testpackageschon.egg-info/SOURCES.txt
+testpackageschon.egg-info/dependency_links.txt
+testpackageschon.egg-info/top_level.txt
